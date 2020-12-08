@@ -1,0 +1,11 @@
+.house-pic{
+  margin-top: 250px;
+  left: 200px;
+  width: 20px;
+
+}
+#start {
+  /* IE does not recognize text-align-last: start; */
+  -moz-text-align-last: start;
+  text-align-last: start;
+}

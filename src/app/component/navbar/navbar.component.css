@@ -1,0 +1,13 @@
+.nav navbar-nav{
+  lighting-color: white;
+  font-size: 20px;
+  width: 50px;
+  lighting-color: white;
+}
+.navbar.navbar-expand-md.navbar-fixed-top.main-nav li a{
+  color: white;
+  word-spacing: 10px;
+}
+p {
+  word-spacing: 10px;
+}
